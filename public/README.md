@@ -16,14 +16,14 @@ In this mini-project, you will build Rest API routes for creating, retrieving, a
 
 ## Acceptance Criteria
 
-* It's done when `movie_db` is created and contains a `movies` and `reviews` table.
+<!-- * It's done when `movie_db` is created and contains a `movies` and `reviews` table.
 
-* It's done when `movie_db` has been seeded with data.
+* It's done when `movie_db` has been seeded with data. -->
 
 
-* It's done when the `/api/add-movie` route successfully adds a movie when tested using Insomnia. (post)
+<!-- * It's done when the `/api/add-movie` route successfully adds a movie when tested using Insomnia. (post) -->
 
-* It's done when the `/api/movies` route renders a list of all movies. (get)
+<!-- * It's done when the `/api/movies` route renders a list of all movies. (get) -->
 
 * It's done when the `/api/movie/:id` route deletes a route when tested using Insomnia. (delete)
 
